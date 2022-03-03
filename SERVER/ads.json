@@ -1,7 +1,6 @@
 [
 	{
-		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon.png?raw=true , \
-				 https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover.png?raw=true",
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover.png?raw=true",
 		"Title"       : "This is a title",
 		"Description" : "And this is just a small description for testing purposes.",
 		"Sponsor"     : "Test.com",
@@ -14,8 +13,7 @@
 
 
 	{
-		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon2.png?raw=true , \
-				 https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover2.png?raw=true",
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon2.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover2.png?raw=true",
 		"Title"       : "Another title",
 		"Description" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document .",
 		"Sponsor"     : "Altirano",
@@ -28,8 +26,7 @@
 
 
 	{
-		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon3.png?raw=true , \
-				 https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover3.jpg?raw=true",
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon3.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover3.jpg?raw=true",
 		"Title"       : "Unity Unite",
 		"Description" : "Unity 3D placeholder text commonly used to demonstrate the visual form of a document .",
 		"Sponsor"     : "Unity",
@@ -42,8 +39,7 @@
 
 
 	{
-		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon4.png?raw=true , \
-				 https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover4.png?raw=true",
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon4.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover4.png?raw=true",
 		"Title"       : "Hamza Herbou",
 		"Description" : "Learn how to make games in Unity.",
 		"Sponsor"     : "Hamza Herbou",
