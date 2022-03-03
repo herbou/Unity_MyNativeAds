@@ -1,1 +1,51 @@
-[\r\n\t{\r\n\t\t\"ImagesURLs\"  : \"https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/icon.png?raw=true , https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/cover.png?raw=true\",\r\n\t\t\"Title\"       : \"This is a title\",\r\n\t\t\"Description\" : \"And this is just a small description for testing purposes.\",\r\n\t\t\"Sponsor\"     : \"Test.com\",\r\n\t\t\"CTA_Text\"    : \"Open\",\r\n\t\t\"CTA_URL\"     : \"https:\/\/google.com\",\r\n\t\t\"MainColor\"   : \"#263B60\",\r\n\t\t\"Priority\"    : \"100\"\r\n\t},\r\n\r\n\r\n\r\n\t{\r\n\t\t\"ImagesURLs\"  : \"https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/icon2.png?raw=true , https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/cover2.png?raw=true\",\r\n\t\t\"Title\"       : \"Another title\",\r\n\t\t\"Description\" : \"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document .\",\r\n\t\t\"Sponsor\"     : \"Altirano\",\r\n\t\t\"CTA_Text\"    : \"Get Started\",\r\n\t\t\"CTA_URL\"     : \"https:\/\/fb.com\",\r\n\t\t\"MainColor\"   : \"#FF0088\",\r\n\t\t\"Priority\"    : \"100\"\r\n\t},\r\n\r\n\r\n\r\n\t{\r\n\t\t\"ImagesURLs\"  : \"https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/icon3.png?raw=true , https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/cover3.jpg?raw=true\",\r\n\t\t\"Title\"       : \"Unity Unite\",\r\n\t\t\"Description\" : \"Unity 3D placeholder text commonly used to demonstrate the visual form of a document .\",\r\n\t\t\"Sponsor\"     : \"Unity\",\r\n\t\t\"CTA_Text\"    : \"Read More\",\r\n\t\t\"CTA_URL\"     : \"https:\/\/unity.com\",\r\n\t\t\"MainColor\"   : \"#000901\",\r\n\t\t\"Priority\"    : \"100\"\r\n\t},\r\n\r\n\r\n\r\n\t{\r\n\t\t\"ImagesURLs\"  : \"https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/icon4.png?raw=true , https:\/\/github.com\/herbou\/Unity_MyNativeAds\/blob\/main\/SERVER\/cover4.png?raw=true\",\r\n\t\t\"Title\"       : \"Hamza Herbou\",\r\n\t\t\"Description\" : \"Learn how to make games in Unity.\",\r\n\t\t\"Sponsor\"     : \"Hamza Herbou\",\r\n\t\t\"CTA_Text\"    : \"Get Started\",\r\n\t\t\"CTA_URL\"     : \"https:\/\/youtube.com\/hamza-herbou\",\r\n\t\t\"MainColor\"   : \"#000901\",\r\n\t\t\"Priority\"    : \"100\"\r\n\t}\r\n]\r\n
+[
+	{
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover.png?raw=true",
+		"Title"       : "This is a title",
+		"Description" : "And this is just a small description for testing purposes.",
+		"Sponsor"     : "Test.com",
+		"CTA_Text"    : "Open",
+		"CTA_URL"     : "https://google.com",
+		"MainColor"   : "#263B60",
+		"Priority"    : "100"
+	},
+
+
+
+	{
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon2.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover2.png?raw=true",
+		"Title"       : "Another title",
+		"Description" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document .",
+		"Sponsor"     : "Altirano",
+		"CTA_Text"    : "Get Started",
+		"CTA_URL"     : "https://fb.com",
+		"MainColor"   : "#FF0088",
+		"Priority"    : "100"
+	},
+
+
+
+	{
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon3.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover3.jpg?raw=true",
+		"Title"       : "Unity Unite",
+		"Description" : "Unity 3D placeholder text commonly used to demonstrate the visual form of a document .",
+		"Sponsor"     : "Unity",
+		"CTA_Text"    : "Read More",
+		"CTA_URL"     : "https://unity.com",
+		"MainColor"   : "#000901",
+		"Priority"    : "100"
+	},
+
+
+
+	{
+		"ImagesURLs"  : "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon4.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover4.png?raw=true",
+		"Title"       : "Hamza Herbou",
+		"Description" : "Learn how to make games in Unity.",
+		"Sponsor"     : "Hamza Herbou",
+		"CTA_Text"    : "Get Started",
+		"CTA_URL"     : "https://youtube.com/hamza-herbou",
+		"MainColor"   : "#000901",
+		"Priority"    : "100"
+	}
+]
