@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"ImagesURLs": "https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/icon.png?raw=true , https://github.com/herbou/Unity_MyNativeAds/blob/main/SERVER/cover.png?raw=true",
 		"Title": "This is a title",
 		"Description": "And this is just a small description for testing purposes.",
